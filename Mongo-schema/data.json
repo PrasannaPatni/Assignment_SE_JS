@@ -1,0 +1,12 @@
+[{
+    "title" : "blog1",
+    "author": "Writer1",
+    "content": "Json file 1",
+    "publicationDate":" "
+  },
+
+{
+    "author": "Writer1",
+    "content": "Json file 2",
+    "publicationDate":" 19/1/2023"
+}]

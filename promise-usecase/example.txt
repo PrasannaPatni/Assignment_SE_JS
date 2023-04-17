@@ -1,0 +1,2 @@
+Hello world
+This is the example file where we have used promise to check this file can be opened or not
